@@ -1,0 +1,94 @@
+   body {
+       width: 1400px;
+       height: 590px;
+       margin: 0;
+   }
+   
+   main {
+       margin-top: 95px;
+   }
+   
+   .head {
+       text-align: center;
+       margin-top: 50px;
+   }
+   
+   .title {
+       font-size: 36;
+       font-family: 'Raleway', sans-serif;
+       width: 405px;
+       height: 26px;
+       margin-top: 107px;
+       margin-left: 498px;
+       text-align: center;
+       fill: #212121;
+   }
+   
+   .line {
+       width: 64px;
+       height: 2px;
+       background-color: orange;
+       margin-left: 668px;
+       border: 0;
+   }
+   
+   .text {
+       text-align: center;
+       font-size: 14px;
+       font-family: 'Open Sans', sans-serif;
+       fill: #86878B;
+   }
+   
+   .box {
+       display: inline-block;
+       width: 350px;
+       height: 197px;
+       margin: 16px;
+       margin-right: 6px;
+       text-align: center;
+   }
+   
+   .box1 {
+       margin-left: 143px;
+   }
+   
+   .round {
+       width: 70px;
+       height: 70px;
+       border: 2px solid orange;
+       border-radius: 50%;
+       text-align: center;
+       margin-left: 50px;
+       margin-left: 137px;
+   }
+   
+   .img-lamp {
+       width: 19px;
+       height: 28px;
+       fill: orange;
+       margin-bottom: -35px
+   }
+   
+   .title1 {
+       font-size: 20;
+   }
+   
+   .text1 {
+       font-size: 14;
+       fill: #86878b;
+       text-align: center;
+   }
+   
+   .img-keyboard {
+       width: 35px;
+       height: 21px;
+       fill: orange;
+       margin-bottom: -35px
+   }
+   
+   .img-lightning {
+       width: 17px;
+       height: 31px;
+       fill: orange;
+       margin-bottom: -35px
+   }
